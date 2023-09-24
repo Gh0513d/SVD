@@ -21,3 +21,5 @@ Installation :
 3. copy PNGDEC  into Arduino\libraries\folder (eg.C:\Users\User\Documents\Arduino\libraries\PNGdec)
 4. copy FlickerFreePrint into  Arduino\libraries\folder  (eg: C:\Users\User\Documents\Arduino\libraries\FlickerFreePrint)
 
+ps. im no programmer by any units of measurements.
+all the code was inspired from roxie and davega 
